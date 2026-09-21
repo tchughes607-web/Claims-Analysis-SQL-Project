@@ -1,0 +1,102 @@
+claim_id,customer_id,customer_name,Age Group,age,gender,claim_date,claim_type,claim_amount,city,status
+CLM-001,1001,John Smith,25-34,34.00,M,2022-01-05,Auto,1200.00,London,Approved
+CLM-001,1001,John Smith,25-34,34.00,M,2022-01-15,Auto,1200.00,London,Approved
+CLM-002,1002,Sarah Jones,25-34,29.00,F,2022-01-15,Travel,800.50,Cardiff,Pending
+CLM-003,1003,Michael Brown,45-54,45.00,M,2022-01-28,Travel,950.00,Cardiff,Pending
+CLM-004,1004,Emily Davis,18-24,22.00,F,2022-01-28,Pet,300.00,Belfast,Closed
+CLM-005,1005,Chris O'Neil,45-54,52.00,M,2022-02-09,Pet,200.00,Belfast,Closed
+CLM-006,1006,Amy Wilson,55+,120.00,F,2022-02-09,Health,2500.00,Dublin,Under Review
+CLM-007,1007,Robert Lee,18-24,5.00,M,2022-02-10,Health,2500.00,Dublin,Under Review
+CLM-008,1008,Jessica Taylor,35-44,38.00,F,2022-02-10,Life,1000.00,Edinburgh,Cancelled
+CLM-009,1009,Tom Harris,35-44,41.00,M,2022-02-14,Life,1.00,Edinburgh,Cancelled
+CLM-010,1010,Anna White,25-34,33.00,F,2022-02-14,Auto,900.00,London,Approved
+CLM-011,1011,David King,45-54,47.00,M,2022-02-18,Auto,900.00,London,Approved
+CLM-012,1012,Laura Green,25-34,28.00,F,2022-02-18,Travel,700.00,Cardiff,Pending
+CLM-013,1013,Peter Parker,35-44,36.00,M,2022-03-01,Travel,700.00,Cardiff,Pending
+CLM-015,1015,Daniel Craig,55+,55.00,M,2022-03-01,Pet,450.00,Belfast,Closed
+CLM-016,1016,Lucy Hale,25-34,27.00,F,2022-03-01,Health,2000.00,Dublin,Under Review
+CLM-017,1017,Mark Wood,35-44,39.00,M,2022-03-01,Health,2000.00,Dublin,Under Review
+CLM-018,1018,Karen Black,35-44,44.00,F,2022-03-04,Life,1500.00,Edinburgh,Cancelled
+CLM-019,1019,Sam Carter,45-54,48.00,M,2022-03-04,Life,1500.00,Edinburgh,Cancelled
+CLM-020,1020,Olivia Stone,25-34,32.00,F,2022-03-09,Auto,1000.00,London,Approved
+CLM-021,1021,Liam Turner,35-44,37.00,M,2022-03-09,Auto,1300.00,London,Approved
+CLM-022,1022,Sophie Adams,25-34,26.00,F,2022-03-14,Auto,1300.00,London,Approved
+CLM-023,1023,George Hill,35-44,42.00,M,2022-03-14,Travel,900.00,Cardiff,Pending
+CLM-024,1024,Natalie Cook,25-34,31.00,F,2022-03-16,Travel,900.00,Cardiff,Pending
+CLM-025,1025,Harry Scott,45-54,50.00,M,2022-03-16,Pet,250.00,Belfast,Closed
+CLM-026,1026,Chloe Price,45-54,47.00,F,2022-03-18,Pet,250.00,Belfast,Closed
+CLM-027,1027,Jack Morris,35-44,39.00,M,2022-03-18,Health,1800.00,Dublin,Under Review
+CLM-028,1028,Emma Carter,25-34,33.00,F,2022-03-22,Health,1800.00,Dublin,Under Review
+CLM-029,1029,Noah Bennett,45-54,45.00,M,2022-03-22,Life,1600.00,Edinburgh,Cancelled
+CLM-030,1030,Ava Mitchell,35-44,41.00,F,2022-03-22,Life,1600.00,Edinburgh,Cancelled
+CLM-031,1031,Oliver Reed,35-44,36.00,M,2022-03-22,Auto,850.00,London,Approved
+CLM-032,1032,Mia Foster,25-34,29.00,F,2022-03-25,Auto,850.00,London,Approved
+CLM-033,1033,Lucas Gray,45-54,52.00,M,2022-03-25,Travel,780.00,Cardiff,Pending
+CLM-034,1034,Grace Kelly,45-54,48.00,F,2022-03-28,Travel,780.00,Cardiff,Pending
+CLM-035,1035,Ethan Ward,25-34,34.00,M,2022-03-28,Pet,500.00,Belfast,Closed
+CLM-036,1036,Lily Howard,25-34,32.00,F,2022-04-04,Pet,500.00,Belfast,Closed
+CLM-037,1037,Jacob Evans,25-34,28.00,M,2022-04-04,Health,2100.00,Dublin,Under Review
+CLM-038,1038,Isabella Young,25-34,27.00,F,2022-04-06,Health,2100.00,Dublin,Under Review
+CLM-039,1039,William Brooks,45-54,49.00,M,2022-04-06,Life,1400.00,Edinburgh,Cancelled
+CLM-040,1040,Emily Ward,45-54,46.00,F,2022-04-09,Life,1400.00,Edinburgh,Cancelled
+CLM-041,1041,James Nolan,35-44,38.00,M,2022-04-10,Auto,1250.00,London,Approved
+CLM-042,1042,Hannah Doyle,35-44,35.00,F,2022-04-10,Auto,1250.00,London,Approved
+CLM-043,1043,Patrick Byrne,35-44,44.00,M,2022-04-12,Travel,880.00,Cardiff,Pending
+CLM-044,1044,Rebecca Shaw,25-34,33.00,F,2022-04-12,Travel,880.00,Cardiff,Pending
+CLM-045,1045,Declan Reid,45-54,51.00,M,2022-04-15,Pet,275.00,Belfast,Closed
+CLM-046,1046,Amber Flynn,45-54,49.00,F,2022-04-15,Pet,275.00,Belfast,Closed
+CLM-047,1047,Shane Murphy,25-34,29.00,M,2022-04-17,Health,1950.00,Dublin,Under Review
+CLM-048,1048,Paige Turner,25-34,28.00,F,2022-04-17,Health,1950.00,Dublin,Under Review
+CLM-049,1049,Connor Walsh,45-54,46.00,M,2022-04-18,Life,1700.00,Edinburgh,Cancelled
+CLM-050,1050,Julia Burns,35-44,43.00,F,2022-04-18,Life,1700.00,Edinburgh,Cancelled
+CLM-051,1051,Adam Clarke,35-44,37.00,M,2022-04-22,Auto,820.00,London,Approved
+CLM-052,1052,Chloe Martin,25-34,31.00,F,2022-04-22,Auto,820.00,London,Approved
+CLM-053,1053,Jason Kelly,45-54,53.00,M,2022-04-26,Travel,760.00,Cardiff,Pending
+CLM-054,1054,Freya Hughes,45-54,47.00,F,2022-04-26,Travel,760.00,Cardiff,Pending
+CLM-055,1055,Callum Price,25-34,33.00,M,2022-05-02,Pet,480.00,Belfast,Closed
+CLM-056,1056,Isla Cooper,25-34,30.00,F,2022-05-02,Pet,480.00,Belfast,Closed
+CLM-057,1057,Leo Barker,25-34,26.00,M,2022-05-03,Health,2200.00,Dublin,Under Review
+CLM-058,1058,Harriet Owen,25-34,25.00,F,2022-05-03,Health,2200.00,Dublin,Under Review
+CLM-059,1059,Ryan Fraser,45-54,50.00,M,2022-05-05,Life,1550.00,Edinburgh,Cancelled
+CLM-060,1060,Sienna Boyd,45-54,48.00,F,2022-05-05,Life,1550.00,Edinburgh,Cancelled
+CLM-061,1061,Harvey Mills,35-44,40.00,M,2022-05-07,Auto,1280.00,London,Approved
+CLM-062,1062,Eleanor Shaw,35-44,36.00,F,2022-05-07,Auto,1280.00,London,Approved
+CLM-063,1063,Brandon Cole,35-44,43.00,M,2022-05-09,Travel,910.00,Cardiff,Pending
+CLM-064,1064,Abigail Hunt,25-34,32.00,F,2022-05-09,Travel,910.00,Cardiff,Pending
+CLM-065,1065,Stuart Kemp,45-54,54.00,M,2022-05-11,Pet,260.00,Belfast,Closed
+CLM-066,1066,Georgia Lane,45-54,52.00,F,2022-05-11,Pet,260.00,Belfast,Closed
+CLM-067,1067,Marcus Doyle,25-34,30.00,M,2022-05-11,Health,1850.00,Dublin,Under Review
+CLM-068,1068,Faith Morgan,25-34,29.00,F,2022-05-11,Health,1850.00,Dublin,Under Review
+CLM-069,1069,Shannon Reid,45-54,47.00,F,2022-05-11,Life,1650.00,Edinburgh,Cancelled
+CLM-070,1070,Tyler Grant,45-54,45.00,M,2022-05-13,Life,1650.00,Edinburgh,Cancelled
+CLM-071,1071,Jordan Blake,35-44,38.00,M,2022-05-13,Auto,830.00,London,Approved
+CLM-072,1072,Amelia Cross,25-34,34.00,F,2022-05-18,Auto,830.00,London,Approved
+CLM-073,1073,Reece Turner,55+,55.00,M,2022-05-18,Travel,770.00,Cardiff,Pending
+CLM-074,1074,Nina Barrett,45-54,50.00,F,2022-05-29,Travel,770.00,Cardiff,Pending
+CLM-075,1075,Calvin Moss,35-44,35.00,M,2022-05-29,Pet,490.00,Belfast,Closed
+CLM-076,1076,Amber Ellis,25-34,33.00,F,2022-06-02,Pet,490.00,Belfast,Closed
+CLM-077,1077,Joel Fraser,25-34,27.00,M,2022-06-02,Health,2300.00,Dublin,Under Review
+CLM-078,1078,Clara Jennings,25-34,26.00,F,2022-06-07,Health,2300.00,Dublin,Under Review
+CLM-079,1079,Martin Doyle,45-54,51.00,M,2022-06-07,Life,1450.00,Edinburgh,Cancelled
+CLM-080,1080,Rebecca Lowe,45-54,49.00,F,2022-06-11,Life,1450.00,Edinburgh,Cancelled
+CLM-081,1081,Daniel Moore,35-44,39.00,M,2022-06-11,Auto,1310.00,London,Approved
+CLM-082,1082,Sarah Patel,35-44,36.00,F,2022-06-13,Auto,1310.00,London,Approved
+CLM-083,1083,Anthony Wells,35-44,44.00,M,2022-06-13,Travel,920.00,Cardiff,Pending
+CLM-084,1084,Lucy Hammond,25-34,33.00,F,2022-06-14,Travel,920.00,Cardiff,Pending
+CLM-085,1085,Paul Gibson,55+,55.00,M,2022-06-14,Pet,265.00,Belfast,Closed
+CLM-086,1086,Holly Barrett,45-54,53.00,F,2022-06-19,Pet,265.00,Belfast,Closed
+CLM-087,1087,Stacey Quinn,25-34,31.00,F,2022-06-19,Health,1900.00,Dublin,Under Review
+CLM-088,1088,Jamie Foster,25-34,29.00,M,2022-06-20,Health,1900.00,Dublin,Under Review
+CLM-089,1089,Oliver Payne,45-54,48.00,M,2022-06-20,Life,1680.00,Edinburgh,Cancelled
+CLM-090,1090,Charlotte Dean,45-54,46.00,F,2022-06-23,Life,1680.00,Edinburgh,Cancelled
+CLM-091,1091,Henry Walsh,35-44,37.00,M,2022-06-23,Auto,840.00,London,Approved
+CLM-092,1092,Emily Fraser,25-34,34.00,F,2022-06-26,Auto,840.00,London,Approved
+CLM-093,1093,Leon Carter,55+,56.00,M,2022-06-26,Travel,780.00,Cardiff,Pending
+CLM-094,1094,Grace Nolan,45-54,51.00,F,2022-06-30,Travel,780.00,Cardiff,Pending
+CLM-095,1095,Marcus Boyd,35-44,36.00,M,2022-06-30,Pet,495.00,Belfast,Closed
+CLM-096,1096,Abbie Lowe,25-34,33.00,F,2022-07-01,Pet,495.00,Belfast,Closed
+CLM-097,1097,Sean Turner,25-34,28.00,M,2022-07-01,Health,2350.00,Dublin,Under Review
+CLM-098,1098,Chloe Jennings,25-34,27.00,F,2022-07-02,Health,2350.00,Dublin,Under Review
+CLM-099,1099,Martin Shaw,45-54,52.00,M,2022-07-02,Life,1500.00,Edinburgh,Cancelled
+CLM-100,1100,Rebecca Flynn,45-54,49.00,F,2022-07-05,Life,1500.00,Edinburgh,Cancelled
+CLM-101,1101,Daniel Harris,35-44,40.00,M,2022-07-05,Auto,1320.00,,
